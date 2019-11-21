@@ -1,0 +1,1 @@
+[' You did not!\n', ' Ah! (taking out his wallet and paying) Just the five minutes.\n', ' You most certainly did not!\n', " Oh no you didn't!\n", " Oh no you didn't!\n", " Oh no you didn't!\n", " Oh look, this isn't an argument!\n", ' No it isn’t!\n', " It's just contradiction!\n"]
